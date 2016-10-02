@@ -1,0 +1,14 @@
+{
+  "name": "mytcb",
+  "version": "0.0.0",
+  "description": "\"使用nodejs提交数据到tcb\"",
+  "main": "servie.js",
+  "scripts": {
+    "start": "node servie.js"
+  },
+  "author": "yghOO",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "jdatas",
+  "version": "0.0.0",
+  "description": "\"提供json数据给tcb\"",
+  "main": "jdatas.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node jdatas.js"
+  },
+  "author": "ygh00",
+  "license": "ISC"
+}
